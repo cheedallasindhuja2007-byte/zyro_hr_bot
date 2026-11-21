@@ -1,0 +1,10 @@
+streamlit
+langchain
+langchain-classic
+langchain-community
+langchain-huggingface
+langchain-google-genai
+faiss-cpu
+rank_bm25
+sentence-transformers
+python-dotenv
